@@ -1,0 +1,7 @@
+README.md
+setup.py
+aws_arcade.egg-info/PKG-INFO
+aws_arcade.egg-info/SOURCES.txt
+aws_arcade.egg-info/dependency_links.txt
+aws_arcade.egg-info/requires.txt
+aws_arcade.egg-info/top_level.txt
